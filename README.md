@@ -1,7 +1,3 @@
 # projeto-github-experimento
 
-Cuzinho
-
-Chupar
-
-Maconha
+Teste do Github
